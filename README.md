@@ -53,21 +53,13 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DewaBiara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Dewa Biara's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewaBiara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Dewa Biara's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=DewaBiara&theme=tokyonight&hide_border=true" alt="Dewa Biara's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DewaBiara&theme=tokyonight&hide_border=true" alt="Dewa Biara's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DewaBiara&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="Dewa Biara's GitHub Trophies" />
+</p>
 
 ---
 
